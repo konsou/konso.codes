@@ -13,7 +13,8 @@ Name: konso / Tomi Javanainen
 ![konso's face](images/face-circle-cropped-400.png "konso's face")  
 Age:  35  
 Class: IT support specialist 10 / programmer 2  
-### Stats:
+
+### Stats
 STR 8  
 DEX 11  
 CON 8  
@@ -24,7 +25,8 @@ CHA 16
 Feats: Quick Learner, Skilled  
 Hobbies: Programming, DnD  
   
-**Relevant work history**: **IT support specialist** / **owner** of my one-man IT support company for about **13 years**.  
+### Relevant work history
+**IT support specialist** / **owner** of my one-man IT support company for about **13 years**.  
   
 **PROS:** Intelligent. Quick to learn. Logical mindset. Good work ethic.   
 **CONS:** Tires easily. Bad with aesthetic design.  
