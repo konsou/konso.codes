@@ -10,7 +10,7 @@ if [[ ! -d ./html/images ]]; then
 fi
 
 echo "Compiling HTML..."
-pandoc index.md -f markdown -t html -s -o html/index.html
+pandoc index.md -f markdown -t html -s --metadata-file metadata.json -o html/index.html
 
 echo "Copying images..."
 cp images/* html/images/
