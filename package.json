@@ -1,0 +1,27 @@
+{
+  "name": "konso.codes",
+  "version": "1.0.0",
+  "description": "I want to work for you. Hire me!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "./compile.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konsou/konso.codes.git"
+  },
+  "keywords": [
+    "CV",
+    "job",
+    "looking",
+    "for",
+    "work"
+  ],
+  "author": "Tomi Javanainen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/konsou/konso.codes/issues"
+  },
+  "homepage": "https://github.com/konsou/konso.codes#readme"
+}
