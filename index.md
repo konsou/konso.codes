@@ -1,6 +1,8 @@
 # Konso would like to work for your company.  
 ## I like programming. I've done and learned all kinds of stuff. Hire me.
-[tomi.javanainen@gmail.com](mailto:tomi.javanainen@gmail.com)  
+Email: [tomi.javanainen@gmail.com](mailto:tomi.javanainen@gmail.com)  
+LinkedIn: [Tomi Javanainen](https://www.linkedin.com/in/tomi-javanainen-47337b205/)  
+Phone: [+358 41 504 8668](tel:+358415048668)  
   
 ## In a nutshell
 * I'm looking for **junior level** work in **web development**. I want to work **3&nbsp;-&nbsp;4 days a week**.
