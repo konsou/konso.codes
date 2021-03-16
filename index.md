@@ -1,14 +1,13 @@
 # Konso would like to work for your company.  
 ## I like programming. I've done and learned all kinds of stuff. Hire me.
-Email: [tomi.javanainen@gmail.com](mailto:tomi.javanainen@gmail.com)  
-LinkedIn: [Tomi Javanainen](https://www.linkedin.com/in/tomi-javanainen-47337b205/)  
-Phone: [+358 41 504 8668](tel:+358415048668)  
   
 ## In a nutshell
+
 * I'm looking for **junior level** work in **web development**. I want to work **3&nbsp;-&nbsp;4 days a week**.
 * I bring to the table a **logical mindset**. I have at least some **experience with many technologies**. I'm **trustworthy** and have a **good work ethic**.  
-  
-## Who I am
+    
+## Me
+
 Name: konso / Tomi Javanainen  
 ![konso's face](images/face-circle-cropped-400.png "konso's face")  
 Age:  35  
@@ -22,14 +21,22 @@ INT 18
 WIS 13  
 CHA 16
 
-Feats: Quick Learner, Skilled  
-Hobbies: Programming, DnD  
-  
+**Feats:** Quick Learner, Skilled  
+**Hobbies:** Programming, DnD  
+
+**Email:** [tomi.javanainen@gmail.com](mailto:tomi.javanainen@gmail.com)  
+**LinkedIn:** [Tomi Javanainen](https://www.linkedin.com/in/tomi-javanainen-47337b205/)  
+**Phone:** [+358 41 504 8668](tel:+358415048668)  
+
+## My skills
+
 ### Relevant work history
 **IT support specialist** / **owner** of my one-man IT support company for about **13 years**.  
   
 **PROS:** Intelligent. Quick to learn. Logical mindset. Good work ethic.   
 **CONS:** Tires easily. Bad with aesthetic design.  
 **MITIGATIONS:** Works 3&nbsp;-&nbsp;4 days a week. Lets others do the aesthetic things.  
+
+## What I've done
 
 Will add things I've done here.
