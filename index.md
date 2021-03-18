@@ -27,8 +27,9 @@ CHA 16
 **Email:** [tomi.javanainen@gmail.com](mailto:tomi.javanainen@gmail.com)  
 **LinkedIn:** [Tomi Javanainen](https://www.linkedin.com/in/tomi-javanainen-47337b205/)  
 **Phone:** [+358 41 504 8668](tel:+358415048668)  
+**Location:** [Jyväskylä, Finland](https://goo.gl/maps/LxxpKYLPguhiMeJC7)  
 
-## My skills
+## Skills
 
 ### Relevant work history
 **IT support specialist** / **owner** of my one-man IT support company for about **13 years**.  
@@ -36,6 +37,21 @@ CHA 16
 **PROS:** Intelligent. Quick to learn. Logical mindset. Good work ethic.   
 **CONS:** Tires easily. Bad with aesthetic design.  
 **MITIGATIONS:** Works 3&nbsp;-&nbsp;4 days a week. Lets others do the aesthetic things.  
+  
+### Technologies
+
+**Python: good**  
+**PHP: ok**  
+**Linux: ok**  
+**React.js: basics**  
+**Javascript / node.js: basics**  
+**HTML: basics**  
+**CSS: basics**  
+**APIs: basics**  
+**GIT: basics**  
+**Docker: basics**  
+**Bash: basics**  
+**Java: basics**  
 
 ## What I've done
 
