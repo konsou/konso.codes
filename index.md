@@ -40,19 +40,36 @@ CHA 16
   
 ### Technologies
 
-**Python: good**  
-**PHP: ok**  
-**Linux: ok**  
-**React.js: basics**  
-**Javascript / node.js: basics**  
-**HTML: basics**  
-**CSS: basics**  
-**APIs: basics**  
-**GIT: basics**  
-**Docker: basics**  
-**Bash: basics**  
-**Java: basics**  
+Python: good  
+PHP: ok  
+Linux: ok  
+MySQL: basics  
+React.js: basics  
+Javascript / node.js: basics  
+HTML: basics  
+CSS: basics  
+APIs: basics  
+GIT: basics  
+Docker: basics  
+Bash: basics  
+Java: basics  
 
 ## What I've done
 
-Will add things I've done here.
+### Shared countdown timer
+A countdown timer you can share to others.  Supports multiple timers - each with its own id.  
+[Live demo](https://rpghelpers.com/shared-countdown/)  
+[Source](https://bitbucket.org/konsou/shared_countdown_timer/src/master/)  
+Keywords: PHP Javascript  HTML CSS  
+  
+### Shared progress clocks
+Shared progress clocks (used in some ttrpgs). Supports multiple pages - each with its own id.  
+[Live demo](https://rpghelpers.com/progress-clocks/)  
+[Source](https://bitbucket.org/konsou/bitd_progress_clock/src/master/)  
+Keywords: PHP Javascript HTML CSS MySQL  
+
+### Shared map timer
+Shared map timer. Every time the timer gets to zero a random section of the map is darkened. Supports multiple pages - each with its own id.  
+[Live demo](https://rpghelpers.com/map-timer/)  
+[Source](https://bitbucket.org/konsou/map-timer/src/master/)  
+Keywords: PHP Javascript HTML CSS MySQL SVG  
