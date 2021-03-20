@@ -1,4 +1,5 @@
 #!/bin/bash
+
 if [[ ! -d ./pdf ]]; then
     echo "Creating pdf directory..."
     mkdir ./pdf
