@@ -21,5 +21,6 @@ source .env
 
 ./compile.sh
 
+echo "Copying HTML files to ${REMOTE_WWW_DIR}/"
 sudo cp -r ./html/. ${REMOTE_WWW_DIR}/
 echo Done.
