@@ -1,9 +1,5 @@
 #!/bin/bash
 # Run this script on the web server
-if [[ ! -f .env ]]; then
-    echo ".env missing!"
-    exit 1
-fi
 
 cd ~
 if [[ ! -d ./konso.codes ]]; then
@@ -14,6 +10,11 @@ else
     echo "Updating files..."
     cd konso.codes/
     git pull
+fi
+
+if [[ ! -f .env ]]; then
+    echo ".env missing!"
+    exit 1
 fi
 
 ./compile.sh
