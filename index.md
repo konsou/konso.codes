@@ -62,6 +62,18 @@ HTML generated from markdown. Runs on my web server. Semi-automated deployment.
 [Source](https://github.com/konsou/konso.codes)  
 Keywords: Markdown apache2 bash linux letsencrypt  
   
+### Claim-a-pixel
+Users can pay a small fee to claim pixels for themselves and select their color. Anyone can claim a pixel by paying more than the previous claimant.  
+[Live demo](https://pixels.rpghelpers.com/)  
+[Source](https://github.com/konsou/pay-for-pixels)  
+Keywords: React.js node.js payment-integration gamification
+
+### CRM system
+A CRM system for my one-man IT support business.  
+[Live demo](https://tietokonetohtori.fi/kanta/) - will add a playground version later
+Source - will add later
+Keywords: PHP mysql user-login license-management inventory-management pdf-generation send-email gmail-api invoicing learning-php
+  
 ### Shared countdown timer
 A countdown timer you can share to others.  Supports multiple timers - each with its own id.  
 [Live demo](https://rpghelpers.com/shared-countdown/)  
