@@ -17,6 +17,7 @@ if [[ ! -f .env ]]; then
     exit 1
 fi
 
+
 ./compile.sh
 
 sudo cp -r ./html/. ${REMOTE_WWW_DIR}/
