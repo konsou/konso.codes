@@ -58,8 +58,8 @@ Java: basics
 
 ## What I've done
 
-### This page
-HTML generated from markdown. Runs on my web server. Semi-automated deployment.  
+### This document
+HTML generated from markdown. PDF generated from HTML. Runs on my web server. Semi-automated deployment.  
 [Live demo](https://konso.codes)  
 [Source](https://github.com/konsou/konso.codes)  
 Keywords: Markdown apache2 bash linux letsencrypt  
