@@ -45,8 +45,8 @@ CHA 16
 Python: good  
 PHP: ok  
 Linux: ok  
-Testing: basics
-CI/CD: basics
+Testing: basics  
+CI/CD: basics  
 MySQL: basics  
 React.js: basics  
 Javascript / node.js: basics  
@@ -77,7 +77,7 @@ Keywords: React.js node.js payment-integration gamification
 A Discord bot for a small community. Learning testing and CI/CD.  
 [Invite link](https://discord.com/api/oauth2/authorize?client_id=825623768763596801&permissions=2048&scope=bot)  
 [Source](https://github.com/konsou/esivalvoja_botti)  
-Keywords: python discord testing heroku ci/cd
+Keywords: python discord testing heroku ci/cd github-actions  
 
 ### CRM system
 A CRM system for my one-man IT support business.  
