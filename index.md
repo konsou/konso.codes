@@ -5,8 +5,8 @@
 
 * I'm looking for **junior level** work in **web development**.
 * I want to work **3&nbsp;-&nbsp;4 days a week**. I can **do in four days what most people do in five.**  
-* I bring to the table a **logical mindset** and good **problem solving skills**. 
-* I have at least some **experience with many technologies**. I'm **trustworthy** and have a **good work ethic**.  
+* I bring to the table a **logical mindset**, good **problem solving skills**. 
+* I have at least some **experience with many technologies**. I'm **trustworthy**, have a **good work ethic** and know how to **manage myself**.  
     
 ## Me
 
@@ -24,7 +24,7 @@ WIS 13
 CHA 16
 
 **Feats:** Quick Learner, Skilled  
-**Hobbies:** Programming, DnD  
+**Hobbies:** Programming, DnD (both player and DM)  
 
 **Email:** [tomi.javanainen@gmail.com](mailto:tomi.javanainen@gmail.com)  
 **LinkedIn:** [Tomi Javanainen](https://www.linkedin.com/in/tomi-javanainen-47337b205/)  
@@ -45,6 +45,8 @@ CHA 16
 Python: good  
 PHP: ok  
 Linux: ok  
+Testing: basics
+CI/CD: basics
 MySQL: basics  
 React.js: basics  
 Javascript / node.js: basics  
@@ -56,7 +58,8 @@ Docker: basics
 Bash: basics  
 Java: basics  
 
-## What I've done
+## What I've done  
+(This list is incomplete at the moment - will add my projects here)
 
 ### This document
 HTML generated from markdown. PDF generated from HTML. Runs on my web server. Semi-automated deployment.  
@@ -70,26 +73,24 @@ Users can pay a small fee to claim pixels for themselves and select their color.
 [Source](https://github.com/konsou/pay-for-pixels)  
 Keywords: React.js node.js payment-integration gamification
 
+### Esivalvoja - a humorous Discord bot
+A Discord bot for a small community. Learning testing and CI/CD.  
+[Invite link](https://discord.com/api/oauth2/authorize?client_id=825623768763596801&permissions=2048&scope=bot)  
+[Source](https://github.com/konsou/esivalvoja_botti)  
+Keywords: python discord testing heroku ci/cd
+
 ### CRM system
 A CRM system for my one-man IT support business.  
 [Live demo](https://tietokonetohtori.fi/kanta/) - will add a playground version later  
 Source - will add later  
 Keywords: PHP mysql user-login license-management inventory-management pdf-generation send-email gmail-api invoicing learning-php  
   
-### Shared countdown timer
-A countdown timer you can share to others.  Supports multiple timers - each with its own id.  
-[Live demo](https://rpghelpers.com/shared-countdown/)  
+### Shared tabletop RPG helper tools
+A countdown timer / progress clocks / map timer you can share to others.  Supports multiple instances - each with its own id.  
+[Live demo - countdown](https://rpghelpers.com/https://rpghelpers.com/shared-countdown/)  
 [Source](https://bitbucket.org/konsou/shared_countdown_timer/src/master/)  
-Keywords: PHP Javascript HTML CSS  
-  
-### Shared progress clocks
-Shared progress clocks (used in some ttrpgs). Supports multiple pages - each with its own id.  
-[Live demo](https://rpghelpers.com/progress-clocks/)  
+[Live demo - progress clocks](https://rpghelpers.com/progress-clocks/)  
 [Source](https://bitbucket.org/konsou/bitd_progress_clock/src/master/)  
-Keywords: PHP Javascript HTML CSS MySQL  
-
-### Shared map timer
-Shared map timer. Every time the timer gets to zero a random section of the map is darkened. Supports multiple pages - each with its own id.  
-[Live demo](https://rpghelpers.com/map-timer/)  
+[Live demo - map timer](https://rpghelpers.com/map-timer/)  
 [Source](https://bitbucket.org/konsou/map-timer/src/master/)  
 Keywords: PHP Javascript HTML CSS MySQL SVG  
