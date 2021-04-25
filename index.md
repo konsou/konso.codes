@@ -1,17 +1,19 @@
 # Konso would like to work for your company.  
 ## I like programming. I've done and learned all kinds of stuff. Hire me.
+
+![konso's face](images/face-circle-cropped-400.png "konso's face")  
   
 ## In a nutshell
 
 * I'm looking for **junior level** work in **web development**.
 * I want to work **3&nbsp;-&nbsp;4 days a week**. I can **do in four days what most people do in five.**  
 * I bring to the table a **logical mindset** and good **problem solving skills**. 
-* I have at least some **experience with many technologies**. I'm **trustworthy**, have a **good work ethic** and know how to **manage myself**.  
+* I have at least some **experience with many technologies**.
+* I'm **trustworthy**, have a **good work ethic** and great **self-management** skills.  
     
 ## Me
 
 Name: konso / Tomi Javanainen  
-![konso's face](images/face-circle-cropped-400.png "konso's face")  
 Age:  35  
 Class: IT support specialist 10 / programmer 2  
 
