@@ -36,7 +36,7 @@ CHA 16
 ## Skills
 
 ### Relevant work history
-**IT support specialist** / **owner** of my one-man IT support company for about **13 years**.  
+**IT support specialist** / **owner** of my one-man IT support company for about **13 years**. My customers [love me](https://www.google.com/maps/place/Jyv%C3%A4skyl%C3%A4n+Tietokonetohtori/@62.2389113,25.7414645,17z/data=!4m7!3m6!1s0x468574145a7dfb69:0xf1c3d5c2a4a12f4e!8m2!3d62.2389172!4d25.7436396!9m1!1b1).   
   
 **PROS:** Intelligent. Quick to learn. Logical mindset. Good work ethic.   
 **CONS:** Tires easily. Bad with aesthetic design.  
@@ -67,13 +67,13 @@ Java: basics
 HTML generated from markdown. PDF generated from HTML. Runs on my web server. Semi-automated deployment.  
 [Live demo](https://konso.codes)  
 [Source](https://github.com/konsou/konso.codes)  
-Keywords: Markdown apache2 bash linux letsencrypt  
+Keywords: markdown apache2 bash linux letsencrypt  
   
 ### Claim-a-pixel
 Users can pay a small fee to claim pixels for themselves and select their color. Anyone can claim a pixel by paying more than the previous claimant.  
 [Live demo](https://pixels.rpghelpers.com/)  
 [Source](https://github.com/konsou/pay-for-pixels)  
-Keywords: React.js node.js payment-integration gamification
+Keywords: react.js node.js payment-integration gamification
 
 ### Esivalvoja - a humorous Discord bot
 A Discord bot for a small community. Learning testing and CI/CD.  
@@ -85,7 +85,7 @@ Keywords: python discord testing heroku ci/cd github-actions
 A CRM system for my one-man IT support business.  
 [Live demo](https://tietokonetohtori.fi/kanta/) - will add a playground version later  
 Source - will add later  
-Keywords: PHP mysql user-login license-management inventory-management pdf-generation send-email gmail-api invoicing learning-php  
+Keywords: php mysql user-login license-management inventory-management pdf-generation send-email gmail-api invoicing learning-php  
   
 ### Shared tabletop RPG helper tools
 A countdown timer / progress clocks / map timer you can share to others.  Supports multiple instances - each with its own id.  
@@ -95,4 +95,4 @@ A countdown timer / progress clocks / map timer you can share to others.  Suppor
 [Source](https://bitbucket.org/konsou/bitd_progress_clock/src/master/)  
 [Live demo - map timer](https://rpghelpers.com/map-timer/)  
 [Source](https://bitbucket.org/konsou/map-timer/src/master/)  
-Keywords: PHP Javascript HTML CSS MySQL SVG  
+Keywords: php javascript html css mysql svg  
