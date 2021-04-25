@@ -5,7 +5,7 @@
 
 * I'm looking for **junior level** work in **web development**.
 * I want to work **3&nbsp;-&nbsp;4 days a week**. I can **do in four days what most people do in five.**  
-* I bring to the table a **logical mindset**, good **problem solving skills**. 
+* I bring to the table a **logical mindset** and good **problem solving skills**. 
 * I have at least some **experience with many technologies**. I'm **trustworthy**, have a **good work ethic** and know how to **manage myself**.  
     
 ## Me
