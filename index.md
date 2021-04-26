@@ -62,7 +62,6 @@ Bash: basics
 Java: basics  
 
 ## What I've done  
-(This list is incomplete at the moment - will add my projects here)
 
 ### This document
 HTML generated from markdown. PDF generated from HTML. Runs on my web server. Semi-automated deployment.  
