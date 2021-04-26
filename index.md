@@ -82,6 +82,12 @@ A Discord bot for a small community. Learning testing and CI/CD.
 [Source](https://github.com/konsou/esivalvoja_botti)  
 Keywords: python discord testing heroku ci/cd github-actions  
 
+### Deep learning cars
+A machine learning project where cars learn to drive a 2D track by themselves.  
+[Video](https://youtu.be/-DS-8Qo3Fe4)  
+[Source](https://bitbucket.org/konsou/deep_learning_cars/src/master/)  
+Keywords: python machine-learning pygame
+
 ### CRM system
 A CRM system for my one-man IT support business.  
 [Live demo](https://tietokonetohtori.fi/kanta/) - will add a playground version later  
@@ -97,3 +103,9 @@ A countdown timer / progress clocks / map timer you can share to others.  Suppor
 [Live demo - map timer](https://rpghelpers.com/map-timer/)  
 [Source](https://bitbucket.org/konsou/map-timer/src/master/)  
 Keywords: php javascript html css mysql svg  
+
+### Autsball
+A simple physics-based cavern flier game.  
+[Video](https://youtu.be/gfYBTWoGnDk)  
+[Source](https://github.com/konsou/autsball)  
+Keywords: python game physics collaboration xml pygame moddable  
