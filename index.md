@@ -67,30 +67,36 @@ Java: basics
 HTML generated from markdown. PDF generated from HTML. Runs on my web server. Semi-automated deployment.  
 [Live demo](https://konso.codes)  
 [Source](https://github.com/konsou/konso.codes)  
+Complexity ballpark: ~100 sloc  
 Keywords: markdown apache2 bash linux letsencrypt  
   
 ### Claim-a-pixel
 Users can pay a small fee to claim pixels for themselves and select their color. Anyone can claim a pixel by paying more than the previous claimant.  
 [Live demo](https://pixels.rpghelpers.com/)  
-[Source](https://github.com/konsou/pay-for-pixels)  
+[Source - backend](https://github.com/konsou/pay-for-pixels)  
+[Source - frontend](https://github.com/konsou/pay-for-pixels-frontend)  
+Complexity ballpark: ~1000 sloc  
 Keywords: react.js node.js payment-integration gamification
 
 ### Esivalvoja - a humorous Discord bot
 A Discord bot for a small community. Learning testing and CI/CD.  
 [Invite link](https://discord.com/api/oauth2/authorize?client_id=825623768763596801&permissions=2048&scope=bot)  
 [Source](https://github.com/konsou/esivalvoja_botti)  
+Complexity ballpark: ~1000 sloc  
 Keywords: python discord testing heroku ci/cd github-actions  
 
 ### Deep learning cars
 A machine learning project where cars learn to drive a 2D track by themselves.  
 [Video](https://youtu.be/-DS-8Qo3Fe4)  
 [Source](https://bitbucket.org/konsou/deep_learning_cars/src/master/)  
+Complexity ballpark: ~2500 sloc  
 Keywords: python machine-learning pygame
 
 ### CRM system
 A CRM system for my one-man IT support business.  
 [Live demo](https://tietokonetohtori.fi/kanta/) - will add a playground version later  
 Source - will add later  
+Complexity ballpark: ~10 000 sloc  
 Keywords: php mysql user-login license-management inventory-management pdf-generation send-email gmail-api invoicing learning-php  
   
 ### Shared tabletop RPG helper tools
@@ -101,10 +107,12 @@ A countdown timer / progress clocks / map timer you can share to others.  Suppor
 [Source](https://bitbucket.org/konsou/bitd_progress_clock/src/master/)  
 [Live demo - map timer](https://rpghelpers.com/map-timer/)  
 [Source](https://bitbucket.org/konsou/map-timer/src/master/)  
+Complexity ballpark (total): ~1000 sloc  
 Keywords: php javascript html css mysql svg  
 
 ### Autsball
 A simple physics-based cavern flier game.  
 [Video](https://youtu.be/gfYBTWoGnDk)  
 [Source](https://github.com/konsou/autsball)  
+Complexity ballpark: ~2500 sloc  
 Keywords: python game physics collaboration xml pygame moddable  
