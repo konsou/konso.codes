@@ -1,5 +1,5 @@
 # Konso would like to work for your company.  
-## I like programming. I've done and learned all kinds of stuff. Hire me.
+## I'm a professional problem solver. I like programming. I've done and learned all kinds of stuff. Hire me.
 
 ![konso's face](images/face-circle-cropped-400.png "konso's face")  
   
@@ -8,7 +8,7 @@
 * I'm looking for **junior level** work in **web development**.
 * I want to work **3&nbsp;-&nbsp;4 days a week**. I can **do in four days what most people do in five.**  
 * I can work near **Jyväskylä** or **remotely**  
-* I bring to the table a **logical mindset** and good **problem solving skills**. 
+* I bring to the table a **logical mindset** and great **problem solving skills**. 
 * I have at least some **experience with many technologies**.
 * I'm **trustworthy**, have a **good work ethic** and great **self-management** skills.  
     
@@ -37,11 +37,16 @@ CHA 16
 ## Skills
 
 ### Relevant work history
-**IT support specialist** / **owner** of my one-man IT support company for about **13 years**. My customers [love me](https://www.google.com/maps/place/Jyv%C3%A4skyl%C3%A4n+Tietokonetohtori/@62.2389113,25.7414645,17z/data=!4m7!3m6!1s0x468574145a7dfb69:0xf1c3d5c2a4a12f4e!8m2!3d62.2389172!4d25.7436396!9m1!1b1).   
+**IT support specialist** / **owner** of my one-man IT support company for about **13 years**. My customers [love me](https://www.google.com/maps/place/Jyv%C3%A4skyl%C3%A4n+Tietokonetohtori/@62.2389113,25.7414645,17z/data=!4m7!3m6!1s0x468574145a7dfb69:0xf1c3d5c2a4a12f4e!8m2!3d62.2389172!4d25.7436396!9m1!1b1).  
+Keywords: it-support problem-solving consumer small-business computer-maintenance computer-repair microsoft-365 google-workspace software hardware    
   
 **PROS:** Intelligent. Quick to learn. Logical mindset. Good work ethic.   
 **CONS:** Tires easily. Bad with aesthetic design.  
 **MITIGATIONS:** Works 3&nbsp;-&nbsp;4 days a week. Lets others do the aesthetic things.  
+  
+### Human languages
+Finnish: native  
+English: very good (both spoken and written)
   
 ### Technologies
 
